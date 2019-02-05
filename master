@@ -1,3 +1,1 @@
-
-Test 1
-Test 2
+system.out.println("Hello World");
